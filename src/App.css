@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+
+body {
+  text-align: center;
+}
+
+input {
+  border-radius: 5px;
+  padding: 4px;
+  margin-top: 16px;
+}
